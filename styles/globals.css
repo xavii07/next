@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h1 {
+  color: rgba(221, 108, 73, 0.712);
+}
